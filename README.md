@@ -1,6 +1,7 @@
 # M5_8SERVO_V1.1
 
-[Product page](https://docs.m5stack.com/en/hat/hat_8servos_1.1)
+ * [Product page](https://shop.m5stack.com/products/m5stickc-8-channel-servo-driver-hat)
+ * [Doc](https://docs.m5stack.com/en/hat/hat_8servos_1.1)
 
 ![image](https://static-cdn.m5stack.com/resource/docs/products/hat/hat_8servos_1.1/hat_8servos_1.1_01.webp)
 
